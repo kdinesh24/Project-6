@@ -9,6 +9,7 @@
 // The VM code was then translated by the VM translator into the Hack
 // assembly code shown here.
 
+
 @256
 D=A
 @SP
